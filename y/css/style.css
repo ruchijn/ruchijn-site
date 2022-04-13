@@ -1582,3 +1582,14 @@ footer .social-icons ion-icon{
   display: none;
   color:#c32865;
 }
+
+#imgMe {
+  filter: url(#dabadee);
+  width: 55%;
+  float: right;
+}
+
+.responsibilities {
+  list-style: circle;
+  padding-left: 10px;
+}
